@@ -37,8 +37,14 @@ npm start
 
 Open `src/App.js`. 
 
+- You should see an import from `initialData.js`
 
-- There is test data that looks like:
+```js
+import initialData from './initialData';
+```
+
+
+- It's test data that looks like:
 
 ```js
 const initialData = [
