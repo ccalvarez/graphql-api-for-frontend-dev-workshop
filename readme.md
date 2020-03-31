@@ -314,7 +314,7 @@ query MyQuery {
 ```
 
 
-## Exercise 5: Setup Apollo
+## Exercise 6: Setup Apollo
 
 **Task 1: Install Apollo Dependencies**
 
@@ -347,7 +347,7 @@ ReactDOM.render(
 );
 ```
 
-## Exercise 6: Query Class
+## Exercise 7: Query for Class Data
 
 **Task 1: Import Apollo Tools**
 
